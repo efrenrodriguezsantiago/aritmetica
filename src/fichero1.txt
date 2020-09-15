@@ -5,3 +5,5 @@ La tecnología es la aplicación de la ciencia
  Constituye un conjunto de conocimientos 
  científicamente ordenados, que permiten 
  diseñar y crear bienes o servicios
+ 
+ trabajando en un bug
